@@ -1,0 +1,18 @@
+.root {
+  position: relative;
+  width: 60px;
+  height: 60px;
+  align-items: flex-start;
+}
+.vuesaxBoldGallery {
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 60px;
+  height: 60px;
+  overflow: visible;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
